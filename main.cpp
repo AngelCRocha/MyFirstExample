@@ -4,8 +4,8 @@
 int main()
 {
 
-    cout << "THE FIRST EXAMPLE MATH DISPLAY!\n";
-    cout << "Limited to whole numbers between -2,147,483,648 and 2,147,483,647:\n";
+    std::cout << "THE FIRST EXAMPLE MATH DISPLAY!\n";
+    std::cout << "Limited to whole numbers between -2,147,483,648 and 2,147,483,647:\n";
 
 
     int32_t x,y;
